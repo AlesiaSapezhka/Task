@@ -1,5 +1,2 @@
 First line of the song
 Second line of my song
-
-Some lines 
-One more new line
